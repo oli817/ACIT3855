@@ -1,0 +1,7 @@
+version: 1
+db:
+  user: root
+  password: password
+  hostname: acit4850-lab6.eastus2.cloudapp.azure.com
+  port: 3306
+  db: events

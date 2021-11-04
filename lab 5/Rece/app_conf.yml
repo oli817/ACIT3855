@@ -1,0 +1,5 @@
+version: 1
+temperature:
+  url: http://localhost:8090/readings/outside-temperature
+wind_speed:
+  url: http://localhost:8090/readings/wind-speed
