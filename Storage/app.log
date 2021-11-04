@@ -9358,4 +9358,974 @@
 2021-10-28 10:57:30,433 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
 2021-10-28 10:57:35,414 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
 2021-10-28 10:57:35,426 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
-2021-11-01 17:48:47,333 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-01 17:56:22,559 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:22,804 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:26,646 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:26,890 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:31,636 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:31,882 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:36,654 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:36,903 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:41,650 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:41,903 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:46,645 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:46,893 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:51,644 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:51,886 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:56,641 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:56:56,885 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:01,640 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:01,871 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:06,640 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:06,884 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:11,646 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:11,890 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:16,644 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:16,891 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:21,637 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:21,878 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:26,637 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:26,878 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:32,183 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:32,784 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:36,883 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:37,233 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:41,659 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:42,009 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:46,755 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:47,065 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:51,642 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:51,989 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:56,638 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:57:56,886 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:01,631 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:01,869 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:06,641 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:06,882 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:11,631 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:11,878 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:16,683 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:16,927 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:21,638 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:21,886 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:26,643 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:26,887 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:31,641 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:31,890 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:36,692 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:36,941 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:41,640 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:41,887 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:46,624 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:46,859 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:51,636 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:51,876 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:56,639 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:58:56,879 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:01,670 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:01,908 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:06,634 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:06,865 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:11,635 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:11,872 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:16,637 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:16,877 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:21,631 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:21,887 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:26,649 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:26,893 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:31,639 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:31,873 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:36,635 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:36,873 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:41,638 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:41,899 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:46,650 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:46,893 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:51,633 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:51,950 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:56,633 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 17:59:56,881 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:01,640 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:01,880 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:06,641 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:06,886 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:11,633 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:11,873 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:13,920 - basicLogger - INFO - Stored event temperature request with a unique id of A12345
+2021-11-01 18:00:16,645 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:00:16,885 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:17,320 - basicLogger - INFO - Stored event temperature request with a unique id of A12345
+2021-11-01 18:00:21,650 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:00:21,905 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:26,637 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:00:26,888 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:31,638 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:00:31,883 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:36,661 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:00:36,951 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:41,656 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:00:41,900 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:46,647 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:00:46,912 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:51,695 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:00:51,961 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:00:56,645 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:00:56,889 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:01:01,637 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:01:01,881 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:01:06,646 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:01:06,889 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:01:11,642 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:01:11,946 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:01:12,248 - basicLogger - INFO - Stored event temperature request with a unique id of A12345
+2021-11-01 18:01:16,641 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:01:16,904 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:01:21,645 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:01:21,884 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:01:26,641 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:01:26,900 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:05:32,489 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-01 18:05:36,619 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:05:36,883 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:05:40,733 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:05:40,989 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:05:45,639 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:05:45,906 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:05:50,124 - basicLogger - INFO - Stored event temperature request with a unique id of A12345
+2021-11-01 18:05:50,645 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:05:50,910 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:05:55,650 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:05:55,922 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:00,642 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:00,906 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:05,648 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:05,916 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:10,653 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:10,914 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:15,657 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:15,916 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:20,649 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:20,915 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:25,645 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:25,909 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:30,639 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:30,899 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:35,642 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:35,904 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:40,643 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:40,908 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:45,759 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:46,202 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:50,646 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:51,076 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:06:55,668 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:06:56,082 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:00,749 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:01,064 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:05,759 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:06,013 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:10,652 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:10,913 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:15,647 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:15,901 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:20,647 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:20,911 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:25,650 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:25,908 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:30,651 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:30,955 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:35,640 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:35,910 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:40,644 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:40,907 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:46,002 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:46,606 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:50,768 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:51,218 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:07:55,769 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:07:56,052 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:00,664 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:01,016 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:05,772 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:06,074 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:10,648 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:10,915 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:15,646 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:15,907 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:20,645 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:20,905 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:25,642 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:25,908 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:30,648 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:30,903 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:35,648 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:35,912 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:40,642 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:40,923 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:45,643 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:45,902 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:50,644 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:50,906 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:08:55,646 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:08:55,904 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:00,655 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:00,901 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:05,646 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:05,949 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:10,674 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:10,932 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:15,654 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:15,922 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:24,452 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:24,700 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:29,475 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:29,736 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:34,455 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:34,728 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:37,411 - basicLogger - INFO - Stored event temperature request with a unique id of A12345
+2021-11-01 18:09:39,442 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:39,709 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:44,447 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:44,719 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:49,441 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:49,703 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:54,443 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:54,702 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:09:59,456 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:09:59,718 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:10:04,443 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:10:04,698 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 0 results
+2021-11-01 18:10:09,038 - basicLogger - INFO - Stored event wind_speed request with a unique id of A12345
+2021-11-01 18:10:09,438 - basicLogger - INFO - Query for Temperature readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:10:09,692 - basicLogger - INFO - Query for Wind speed readings after 2021-10-28T10:56:30Z returns 1 results
+2021-11-01 18:10:11,106 - basicLogger - INFO - Stored event wind_speed request with a unique id of A12345
+2021-11-01 18:10:14,434 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:10:14,692 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:10:19,440 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:10:20,059 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:10:24,448 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:10:24,712 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:10:29,444 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:10:29,704 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:10:34,440 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:10:34,724 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:10:39,442 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:10:39,701 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:10:44,449 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:10:44,901 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:10:49,615 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:10:49,993 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:10:54,688 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:10:55,078 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:10:59,519 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:10:59,933 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:04,455 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:04,716 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:09,473 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:09,735 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:14,440 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:14,697 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:19,453 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:19,713 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:24,458 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:24,729 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:29,441 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:29,719 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:34,454 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:34,725 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:39,442 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:39,711 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:44,443 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:44,698 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:49,440 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:49,708 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:54,447 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:54,720 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:11:59,445 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:11:59,703 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:04,455 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:04,713 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:09,442 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:09,708 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:14,433 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:14,684 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:19,439 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:19,707 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:24,452 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:24,717 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:29,462 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:29,721 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:34,449 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:34,720 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:39,436 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:39,709 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:44,436 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:44,697 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:49,448 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:49,715 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:54,443 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:54,717 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:12:59,477 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:12:59,740 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:13:04,449 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:13:04,713 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:13:09,444 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:13:09,709 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:13:14,448 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:13:14,728 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:13:19,465 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:13:19,724 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:13:35,818 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:13:36,087 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:13:36,919 - basicLogger - INFO - Stored event wind_speed request with a unique id of N345
+2021-11-01 18:13:40,791 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:13:41,038 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:13:45,832 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:13:46,100 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:13:50,792 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:13:51,052 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:13:51,290 - basicLogger - INFO - Stored event wind_speed request with a unique id of N345
+2021-11-01 18:13:55,804 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:13:56,068 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:00,822 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:01,087 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:05,800 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:06,061 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:10,799 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:11,064 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:15,795 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:16,041 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:20,800 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:21,072 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:25,832 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:26,438 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:31,037 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:31,456 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:35,821 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:36,183 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:40,871 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:41,261 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:45,844 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:46,116 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:50,815 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 0 results
+2021-11-01 18:14:51,082 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:14:55,262 - basicLogger - INFO - Stored event temperature request with a unique id of A12nbc345
+2021-11-01 18:14:55,798 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:10:09Z returns 1 results
+2021-11-01 18:14:56,057 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:10:09Z returns 2 results
+2021-11-01 18:15:00,797 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 1 results
+2021-11-01 18:15:01,067 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-01 18:15:05,803 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 1 results
+2021-11-01 18:15:06,070 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-01 18:15:10,822 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 1 results
+2021-11-01 18:15:11,080 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-01 18:15:15,805 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 1 results
+2021-11-01 18:15:16,069 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-01 18:15:20,804 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 1 results
+2021-11-01 18:15:21,065 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-01 18:15:25,802 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 1 results
+2021-11-01 18:15:26,071 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-01 18:15:30,834 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 1 results
+2021-11-01 18:15:31,093 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-01 18:17:32,059 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-02 16:22:14,607 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-02 16:22:16,696 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:24:58,071 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:24:57', 'payload': {'address_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'outside_temperature': 22, 'sensor_id': 'A12345', 'timestamp': '2021-09-12T09:12:33.001Z'}}
+2021-11-03 13:24:59,283 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:31:58,057 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:31:58,335 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:01,494 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:01,774 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:06,483 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:06,721 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:11,485 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:11,734 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:16,494 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:16,735 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:21,512 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:21,749 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:26,482 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:26,718 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:31,480 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:31,720 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:36,560 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:36,798 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:41,489 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:41,733 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:46,491 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:46,731 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:51,481 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:51,721 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:32:56,480 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:32:56,715 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:01,477 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:01,706 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:06,477 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:06,712 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:11,477 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:11,714 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:16,477 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:16,707 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:21,487 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:21,724 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:26,488 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:26,725 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:31,483 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:31,719 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:36,477 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:36,710 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:41,479 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:41,736 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:42,575 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': '5010f0c6-126f-458c-98be-393657e6f90b', 'outside_temperature': 5544, 'sensor_id': 'e8914d69-ae91-40a7-8953-31c34d3e3987', 'timestamp': 'a2cb1b20-e392-4aac-a3fc-20e03d14f2b2'}}
+2021-11-03 13:33:46,491 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:46,723 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:51,496 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:51,736 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:33:56,487 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:33:56,726 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:01,537 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:01,783 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:06,501 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:06,758 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:11,499 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:11,775 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:16,487 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:16,750 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:21,481 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:21,837 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:26,482 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:26,768 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:31,484 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:31,763 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:36,503 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:36,752 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:41,482 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:41,720 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:46,488 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:46,725 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:51,486 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:51,729 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:34:56,495 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:34:56,737 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:01,568 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:01,808 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:06,484 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:06,725 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:11,478 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:11,713 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:16,485 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:16,721 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:21,482 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:21,731 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:26,484 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:26,722 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:31,488 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:31,735 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:36,492 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:36,729 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:41,484 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:41,734 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:46,493 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:46,737 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:51,530 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:51,768 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:35:56,492 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:35:56,736 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:36:01,488 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:36:01,725 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:36:06,485 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:36:06,735 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:36:11,485 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:36:11,723 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:36:16,491 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:36:16,729 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:36:21,494 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:36:21,776 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:36:26,484 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:36:26,728 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:36:31,482 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:36:31,816 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:36:36,489 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:36:36,727 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:36:41,844 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': '5010f0c6-126f-458c-98be-393657e6f90b', 'outside_temperature': 5544, 'sensor_id': 'e8914d69-ae91-40a7-8953-31c34d3e3987', 'timestamp': 'a2cb1b20-e392-4aac-a3fc-20e03d14f2b2'}}
+2021-11-03 13:36:42,414 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:36:42,675 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 0 results
+2021-11-03 13:36:42,999 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:43,077 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': '03f1d51a-7a2a-42f9-9941-453d857cdb43', 'outside_temperature': 9030, 'sensor_id': 'e0968cf1-1a52-46eb-88e7-e27d7bdc1e97', 'timestamp': '57e0e21d-a505-4f24-8d18-215451c5dbdf'}}
+2021-11-03 13:36:43,328 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:43,410 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': '12e9899c-39f1-4a87-b9a8-ba70f6d67e31', 'outside_temperature': 7403, 'sensor_id': '15e0a25c-c7e7-4102-9efd-9fc605d72827', 'timestamp': '2644a5d4-24db-4c2b-b8e3-658d8776fca6'}}
+2021-11-03 13:36:43,655 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:43,739 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': 'c60461f9-d4ce-487f-bfc8-61e571cee22c', 'outside_temperature': 6770, 'sensor_id': '12c55a41-a553-4340-84d2-89944267a8e2', 'timestamp': '5ba173e4-7ab7-46df-8665-5610343dc502'}}
+2021-11-03 13:36:43,984 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:44,061 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': '6271beaa-c073-41d1-a238-3f0175db82bb', 'outside_temperature': 2868, 'sensor_id': '55cab6d2-ee0c-4275-ab82-37b5436abe1d', 'timestamp': '366fb273-e97f-4982-b7e1-f68f92b80bc5'}}
+2021-11-03 13:36:44,309 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:44,385 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': '123c8fd7-cb2f-4292-be91-8cbe1d61aca3', 'outside_temperature': 849, 'sensor_id': '01ecb6e5-a7e6-4e78-bfb2-2500625a4913', 'timestamp': '44072f3e-2d7d-4a63-9629-c48bc69c6f63'}}
+2021-11-03 13:36:44,636 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:44,712 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': 'adce502c-36e0-4c5e-8d11-03a21a7be188', 'outside_temperature': 4032, 'sensor_id': 'a2c8562d-29b3-4643-96e8-5d5a022ac174', 'timestamp': '38271c6d-8e05-413e-aec7-337d72ff9a87'}}
+2021-11-03 13:36:44,959 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:45,035 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': 'b1d96e90-2ce5-4c28-8859-2b10ede2f0d0', 'outside_temperature': 3802, 'sensor_id': '0fa4f40b-ac7d-44a3-bfc3-7deea2fb4a29', 'timestamp': 'a222f1d8-de22-400d-b9f6-6d32be2f2e86'}}
+2021-11-03 13:36:45,282 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:45,358 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': 'e544355f-3e58-4ead-94c9-a29199fd76d5', 'outside_temperature': 2689, 'sensor_id': 'd81b0756-7ba2-46cc-9bd3-d86ffd90223d', 'timestamp': 'fb71e7c6-b629-47ac-95da-41fdff7aca29'}}
+2021-11-03 13:36:45,616 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:45,692 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:42', 'payload': {'address_id': '08c3e1dd-800b-4919-8a4b-2e87494a4ec7', 'outside_temperature': 5552, 'sensor_id': 'dcebe33e-5137-4e82-89f0-2cd3bd85816f', 'timestamp': '55cd552c-33c7-4011-b450-fc454145cfd6'}}
+2021-11-03 13:36:45,940 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:46,016 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:48', 'payload': {'address_id': '7609f338-57e1-4484-9802-ac9651a57961', 'sensor_id': '1de34ce4-9a73-4040-8062-f43a584d93f1', 'timestamp': '63e3e757-49cc-40d7-951b-dd62abdf425a', 'wind_speed': 9387}}
+2021-11-03 13:36:46,273 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:46,351 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:48', 'payload': {'address_id': '8d4d2532-eb71-4b76-8151-48ff00785750', 'sensor_id': 'd44c5a61-b55e-455f-b901-fc74cbeb5609', 'timestamp': '1d9481e9-ce29-4ee3-9bb1-ef967b9a0629', 'wind_speed': 7153}}
+2021-11-03 13:36:46,503 - basicLogger - INFO - Query for Temperature readings after 2021-11-01T18:14:55Z returns 12 results
+2021-11-03 13:36:46,593 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:46,669 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:48', 'payload': {'address_id': '0726d318-e4be-462a-8567-4389422c25b0', 'sensor_id': '2ed6d749-bc77-4304-aaf7-0ed3e811ed94', 'timestamp': '12d32000-2a35-41ef-a0e1-23f5df6021fe', 'wind_speed': 2602}}
+2021-11-03 13:36:46,768 - basicLogger - INFO - Query for Wind speed readings after 2021-11-01T18:14:55Z returns 2 results
+2021-11-03 13:36:46,915 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:46,993 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:48', 'payload': {'address_id': '0c3c5fbc-5ae8-4a69-a41d-5839ed7244f4', 'sensor_id': '08a0844d-1e43-4e44-a92b-0a838ac763a0', 'timestamp': 'e377930b-3d0c-494a-9ed4-e5c9842278c7', 'wind_speed': 8325}}
+2021-11-03 13:36:47,280 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:47,357 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:48', 'payload': {'address_id': 'bb689bee-982e-4b67-a00a-acc4384aa45a', 'sensor_id': '4bb4cf99-3fc9-4f56-8849-ad135bc93879', 'timestamp': '61f3ed2c-2396-47b0-9619-765402ab3ca9', 'wind_speed': 1270}}
+2021-11-03 13:36:47,609 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:47,685 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:48', 'payload': {'address_id': '66997df4-5564-471d-af8d-898039d4c063', 'sensor_id': '0f8fe334-3932-42ee-a2bf-abae5afd6440', 'timestamp': 'fb2dd3b3-a5e2-43f5-9375-372f2d974cee', 'wind_speed': 8774}}
+2021-11-03 13:36:47,947 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:48,023 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:48', 'payload': {'address_id': '71665cd7-9a8a-4dcf-ae59-3bb04ceea873', 'sensor_id': '54880025-b548-4215-9bd8-fc241a31e37e', 'timestamp': 'df38c2b2-a79c-4629-bc13-9f8e9de20fe8', 'wind_speed': 7882}}
+2021-11-03 13:36:48,268 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:48,346 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:48', 'payload': {'address_id': '010a5623-d0e3-4a99-8635-b762652fc506', 'sensor_id': '0474efe1-0038-4e2c-93a1-2112d522ab5c', 'timestamp': 'eeadf502-22b1-450d-9892-030a1aeb190a', 'wind_speed': 4214}}
+2021-11-03 13:36:48,593 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:48,669 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:48', 'payload': {'address_id': 'f497eb03-b971-4c49-a788-1a8ab29961a5', 'sensor_id': '75c97c03-0188-4515-9330-0e3337115cd6', 'timestamp': 'd7f29d35-dc63-45af-8996-1ecc29c70fb5', 'wind_speed': 7533}}
+2021-11-03 13:36:48,917 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:48,993 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:48', 'payload': {'address_id': '8932c80e-1f56-4f14-bbba-740007041989', 'sensor_id': '9d7c576d-2f59-4ceb-b892-c9561b2063ff', 'timestamp': 'df724845-c17e-4d19-b9fd-d9681646d006', 'wind_speed': 4798}}
+2021-11-03 13:36:49,244 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:49,320 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:53', 'payload': {'address_id': 'a808930b-ff46-41ee-bd23-a2de22b467f0', 'outside_temperature': 8555, 'sensor_id': 'cbcd6a2a-3b65-4b13-ba17-422af3c35ab1', 'timestamp': '4a73a34c-c454-486f-af00-0b82d53dc737'}}
+2021-11-03 13:36:49,568 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:49,647 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:53', 'payload': {'address_id': 'bd9a7473-67bb-46b7-a7fb-591e009f95f8', 'outside_temperature': 2313, 'sensor_id': 'b4d557df-8fce-4887-8afb-266355b040fd', 'timestamp': '64138ca5-259a-49bb-add8-227ace028701'}}
+2021-11-03 13:36:49,898 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:49,977 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:53', 'payload': {'address_id': '6de2f0a5-c7d7-4ae7-a685-c29fa390af01', 'outside_temperature': 6744, 'sensor_id': '3366a655-e113-484b-a71d-9e70ba62d936', 'timestamp': '3034d789-70c6-4161-99e1-4dcc304f8b30'}}
+2021-11-03 13:36:50,233 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:50,308 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:53', 'payload': {'address_id': '81fa6595-dcb1-4107-b3fc-da3c74444745', 'outside_temperature': 2751, 'sensor_id': '6a74bb37-1d86-428e-9736-ffc39cb39f9d', 'timestamp': '3d4a0e59-b9cb-4faa-98b5-c6bfd9b86714'}}
+2021-11-03 13:36:50,553 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:50,630 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:53', 'payload': {'address_id': '5f641278-e831-4896-80ab-b17537ab7831', 'outside_temperature': 5336, 'sensor_id': '8f90fb8f-5f7b-426d-a379-e8c568a4d968', 'timestamp': '986b6a10-3d80-48d2-8838-c494ab4f955d'}}
+2021-11-03 13:36:50,874 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:50,951 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:53', 'payload': {'address_id': 'aa3e7c32-f302-4a62-96bd-e598dd8853fc', 'outside_temperature': 636, 'sensor_id': 'eca789a7-d6f1-43e8-941d-e0e2c40bf909', 'timestamp': 'a8b0f0bc-3672-4267-85b6-aa79e5c5b119'}}
+2021-11-03 13:36:51,196 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:51,276 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:53', 'payload': {'address_id': '66a0ee12-8fd5-488a-90f7-61a18d30445c', 'outside_temperature': 625, 'sensor_id': '917cc032-473c-4834-be4b-9e244c4db8a1', 'timestamp': '25e854b3-f0a0-4027-bbc0-71b04ac067f9'}}
+2021-11-03 13:36:51,504 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:36:46Z returns 6 results
+2021-11-03 13:36:51,523 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:51,600 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:54', 'payload': {'address_id': 'aa6cadc4-bc06-40bb-8865-f547edd47a2a', 'outside_temperature': 7851, 'sensor_id': '3707d09d-03fa-40fe-825d-319081f1688e', 'timestamp': 'c670015e-3b6a-442a-8b58-d65fb96da243'}}
+2021-11-03 13:36:51,768 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:36:46Z returns 10 results
+2021-11-03 13:36:51,854 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:51,932 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:54', 'payload': {'address_id': '63b2ff3f-00cd-4586-8cfa-45b58a64f48c', 'outside_temperature': 8685, 'sensor_id': '373901d2-547b-4fae-baed-16a30b36a5e0', 'timestamp': '5de85cb0-ef99-450b-84cd-550b3125c75e'}}
+2021-11-03 13:36:52,177 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:52,253 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:33:54', 'payload': {'address_id': 'b25df105-b14c-47b5-a391-5a1c55657526', 'outside_temperature': 3749, 'sensor_id': '6d99a809-76d7-4d60-88a4-1bc20dc0bf99', 'timestamp': 'd66dcb92-e00f-4d62-a830-1b330012eee7'}}
+2021-11-03 13:36:52,499 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:52,578 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:59', 'payload': {'address_id': '112c0c87-1a8c-40b5-9fcd-e4f23e56b21a', 'sensor_id': 'bb08c29b-45bd-42d0-b039-70514c965e21', 'timestamp': 'e373068e-6a2d-4138-bf35-4effaa5f2391', 'wind_speed': 7078}}
+2021-11-03 13:36:52,828 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:52,905 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:59', 'payload': {'address_id': 'c93e412b-6719-4cc7-b63c-2d926b8fa1c1', 'sensor_id': '72d0985e-57b8-4924-bd9b-98b6e0204e8c', 'timestamp': '8e321928-fb1a-4110-9575-06473c64cf52', 'wind_speed': 7357}}
+2021-11-03 13:36:53,148 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:53,226 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:59', 'payload': {'address_id': 'cdb3d7dc-5185-4b83-bc80-4e2b5badf111', 'sensor_id': '3f0e3734-6d40-4097-95ef-ccc45fac3eeb', 'timestamp': '462b2ab2-f41f-45e2-8a5c-8eabce911acd', 'wind_speed': 1364}}
+2021-11-03 13:36:53,473 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:53,555 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:59', 'payload': {'address_id': '6d5abd2f-c586-4d3d-968b-dc13412e6214', 'sensor_id': '89f88e94-0e7c-4165-8652-733874fa61f8', 'timestamp': '03ac15f7-dbe0-42ca-8b6e-442921e2e41e', 'wind_speed': 492}}
+2021-11-03 13:36:53,802 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:53,880 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:59', 'payload': {'address_id': 'cba42855-b283-40ff-a6b3-1897c286bba1', 'sensor_id': '4ec8db33-22f0-4a42-a709-cc345ef2fd51', 'timestamp': '4d22228e-e631-4944-bd8d-1115922199fd', 'wind_speed': 1126}}
+2021-11-03 13:36:54,129 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:54,207 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:59', 'payload': {'address_id': '7abb636e-1bc6-4115-bb36-a21ee1181743', 'sensor_id': 'de3338d3-087c-41c8-babd-7c84d859659c', 'timestamp': '66de1223-b620-455f-8cea-b859c90ec4b9', 'wind_speed': 7120}}
+2021-11-03 13:36:54,452 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:54,528 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:33:59', 'payload': {'address_id': '4560e3d7-b00d-4cdd-a983-2c0f323cf841', 'sensor_id': '4f408368-d073-4d40-a059-a134a766beb5', 'timestamp': 'e56291a9-751d-43a6-b5ab-2ab96da021cb', 'wind_speed': 1992}}
+2021-11-03 13:36:54,778 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:54,854 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:00', 'payload': {'address_id': '64e51651-bbd3-453b-8006-811f74fa9695', 'sensor_id': '23c6f51f-dfb0-458d-8d05-03f13b78e6ec', 'timestamp': 'e6b0deb9-dcb5-40ef-8076-e4a02327479e', 'wind_speed': 9689}}
+2021-11-03 13:36:55,107 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:55,184 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:00', 'payload': {'address_id': 'd9ba97f3-8302-4361-9def-9c021a176793', 'sensor_id': '5c17822f-53d0-48f6-8616-500e3d848f21', 'timestamp': '6559f474-f51b-4d69-a917-41c08689d7bf', 'wind_speed': 5073}}
+2021-11-03 13:36:55,432 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:55,510 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:00', 'payload': {'address_id': 'b510f02e-c937-489b-a975-38207d0f5f4d', 'sensor_id': '80ff36ff-8ab2-43c3-957d-5bab284b53fb', 'timestamp': '9ad5a9cc-9558-47f8-9d45-281b4cc6e5a9', 'wind_speed': 1949}}
+2021-11-03 13:36:55,755 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:55,832 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:04', 'payload': {'address_id': '2bdc45ff-55c2-4c5e-940d-7d3c6d2cf780', 'outside_temperature': 7439, 'sensor_id': 'dd3de59d-949f-4dee-a73b-289ae379a05f', 'timestamp': 'd7d0c1ee-a304-4151-9174-1f9e4c25ae45'}}
+2021-11-03 13:36:56,082 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:56,160 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:04', 'payload': {'address_id': '4dcc15f1-7640-4b5f-a757-169c559a07ee', 'outside_temperature': 7093, 'sensor_id': '9c0850f9-690c-467e-b92b-ab55817f1535', 'timestamp': '84f7523a-8bb0-4a80-a43c-4f8af66fbbb2'}}
+2021-11-03 13:36:56,406 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:56,484 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:04', 'payload': {'address_id': '5e802621-f100-411a-8006-a6c00aeaa799', 'outside_temperature': 1843, 'sensor_id': '2eac232e-8422-4595-a4bf-debc5a607cbe', 'timestamp': '28482cad-a32a-495b-bb75-ac14611e6bf1'}}
+2021-11-03 13:36:56,500 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:36:51Z returns 6 results
+2021-11-03 13:36:56,734 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:56,755 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:36:51Z returns 10 results
+2021-11-03 13:36:56,819 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:04', 'payload': {'address_id': '554361ba-ba53-484b-893b-841c9d7cab73', 'outside_temperature': 662, 'sensor_id': '0230864a-5209-4e84-9f05-438cd99ab251', 'timestamp': '7b87cfc1-38b0-4cb9-980f-1490ce9723e0'}}
+2021-11-03 13:36:57,071 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:57,147 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:04', 'payload': {'address_id': '996b1915-b3f4-4a57-9762-b27154efe3cb', 'outside_temperature': 5109, 'sensor_id': 'd0600c73-1528-4157-b4d4-a1d27638651e', 'timestamp': '360d4a1d-a653-4eda-bc57-b80bfec43c31'}}
+2021-11-03 13:36:57,398 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:57,474 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:04', 'payload': {'address_id': '438be9ab-ca7e-494a-b7a3-fa9a36918362', 'outside_temperature': 1852, 'sensor_id': 'e3031ac6-e233-4b27-912d-5d304ba74550', 'timestamp': '6849d9e7-2fd0-44d1-8067-183de34f7f5d'}}
+2021-11-03 13:36:57,720 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:57,797 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:04', 'payload': {'address_id': '2b9bddae-39ed-4bbf-bc4c-0da5fac04632', 'outside_temperature': 2715, 'sensor_id': '93e19c16-5b09-4a48-a3fa-53c5554b7575', 'timestamp': '7c6012b7-c13f-4cf0-9bf0-ad562ae367fb'}}
+2021-11-03 13:36:58,042 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:58,118 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:05', 'payload': {'address_id': '3055427b-b28c-4d3f-903d-c854e9b5de18', 'outside_temperature': 1524, 'sensor_id': '221a5958-2564-4b7a-a4e6-d728cf40195a', 'timestamp': '1e0af1f9-4119-4259-8948-5a1707958c60'}}
+2021-11-03 13:36:58,363 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:58,441 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:05', 'payload': {'address_id': '317685af-5a03-47c7-a395-a28e024e38bf', 'outside_temperature': 9771, 'sensor_id': '5f411165-d899-4f40-be25-7931c5451ce1', 'timestamp': '821f01fd-5077-42b8-b05e-1b10f6bf3e27'}}
+2021-11-03 13:36:58,689 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:58,765 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:05', 'payload': {'address_id': 'c4a31b01-17b8-43ea-b789-632db856ba9c', 'outside_temperature': 3375, 'sensor_id': 'c5c7e2cb-2d90-47ed-807a-05fb046c1e46', 'timestamp': 'bd6b395b-3c82-48d1-a9e3-7450dad63e68'}}
+2021-11-03 13:36:59,010 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:59,087 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:10', 'payload': {'address_id': '3501d450-f741-4c3b-b4a3-997ab0738106', 'sensor_id': 'ee5b1e4f-9fd9-491a-aacb-bfa98ceb8a26', 'timestamp': '37cacea1-0e07-402e-8d9d-96bea0babec0', 'wind_speed': 5730}}
+2021-11-03 13:36:59,335 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:59,411 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:10', 'payload': {'address_id': '718c5cf1-e433-462b-a3f3-3764617a6916', 'sensor_id': '55efc4db-73b0-46dc-bc46-6103850a63b0', 'timestamp': '09c1a963-2794-4cf0-8f1a-dad976605902', 'wind_speed': 1505}}
+2021-11-03 13:36:59,661 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:36:59,736 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:10', 'payload': {'address_id': 'ee1522a5-1024-455d-baa9-d373d29d5c5b', 'sensor_id': 'e389762f-b036-4e8b-ab62-86806fce97d0', 'timestamp': 'ff9d01d1-a1c5-4cd2-9b0f-1c5c4e9150b7', 'wind_speed': 4307}}
+2021-11-03 13:36:59,989 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:00,068 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:10', 'payload': {'address_id': '30cc9dcd-48ac-450a-8a8a-3d0bbb4edd11', 'sensor_id': 'e881cbd8-ce20-42b0-b551-8c00e4fdd2e0', 'timestamp': 'ad499b9e-e590-4750-9152-472f271b694a', 'wind_speed': 2059}}
+2021-11-03 13:37:00,316 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:00,394 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:10', 'payload': {'address_id': '2be8d6b1-d478-46ac-8f0b-30edf007a052', 'sensor_id': '11eefb0f-084c-4974-b0ef-7b7d388bc5b1', 'timestamp': 'f411580b-1daf-44d6-9f3e-aeb24676581d', 'wind_speed': 1243}}
+2021-11-03 13:37:00,639 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:00,715 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:10', 'payload': {'address_id': '009becbb-1710-4fbd-b92c-96f505aebf0d', 'sensor_id': '147c5939-52ce-4a50-8de6-7b2f2ffb5ad9', 'timestamp': 'c7061c00-1713-486f-ac8f-01a063e2b19f', 'wind_speed': 3309}}
+2021-11-03 13:37:00,971 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:01,051 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:10', 'payload': {'address_id': '6b742ed9-29bc-4d79-8824-86762f69665b', 'sensor_id': 'ce0b39a2-bd78-4561-b104-4e9ccec0c42a', 'timestamp': 'c979c8ba-0184-453f-ae91-9b2ed857886b', 'wind_speed': 8878}}
+2021-11-03 13:37:01,299 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:01,376 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:11', 'payload': {'address_id': '1e097fb5-9947-4f9e-bdeb-4b8187bc2bf7', 'sensor_id': '1f91b300-e680-4883-a8a2-e6327a6770a1', 'timestamp': '8155c3c9-7943-4c56-a7f6-424320e8ba49', 'wind_speed': 7602}}
+2021-11-03 13:37:01,506 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:36:56Z returns 9 results
+2021-11-03 13:37:01,624 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:01,703 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:11', 'payload': {'address_id': '18f44355-22c0-405a-a198-0ba0ee39fa35', 'sensor_id': 'c7da4159-2b8d-4933-987b-5b269242ac23', 'timestamp': '80fb1883-20ec-43e1-88ba-7eb3967cd0df', 'wind_speed': 2272}}
+2021-11-03 13:37:01,762 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:36:56Z returns 8 results
+2021-11-03 13:37:01,952 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:02,027 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:11', 'payload': {'address_id': 'f674308f-19e4-49d7-afdc-f777ea080598', 'sensor_id': 'af75c454-c70e-4172-9038-ee4029dac3cb', 'timestamp': '32c77b40-67c2-4b24-b924-7f056e49aa1d', 'wind_speed': 648}}
+2021-11-03 13:37:02,273 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:02,348 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:15', 'payload': {'address_id': 'ba3cce96-c68e-4495-a60b-0842f23336fa', 'outside_temperature': 3697, 'sensor_id': 'd9ef398a-16a2-47f2-9d97-0a8a65d4aaf4', 'timestamp': '6c8af79e-3445-434a-a8dc-030fd37cfc0f'}}
+2021-11-03 13:37:02,594 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:02,672 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:15', 'payload': {'address_id': '8d86fe45-e6e0-4fd2-ad2a-beb5d13dea72', 'outside_temperature': 5958, 'sensor_id': '128288d5-0154-4bd9-9dc2-1771a9c4d178', 'timestamp': '91beabbb-0e5b-4006-b263-ebe9b720abab'}}
+2021-11-03 13:37:02,918 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:02,995 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:15', 'payload': {'address_id': 'ea5ca823-79c7-4fa6-a9ca-3b2c9cabe496', 'outside_temperature': 6416, 'sensor_id': 'cd2bd1b1-5191-4b6a-ab19-98f95c416144', 'timestamp': '2e38f395-d190-4231-b3fa-63e0fe062820'}}
+2021-11-03 13:37:03,243 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:03,319 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:15', 'payload': {'address_id': '5205cf3d-b71f-47b9-b911-00473a254a9f', 'outside_temperature': 7293, 'sensor_id': 'b42b95d8-d585-44d2-af58-81765d638fc5', 'timestamp': '0b6123b0-697c-4f62-b975-485a39eef074'}}
+2021-11-03 13:37:03,565 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:03,642 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:15', 'payload': {'address_id': '8bf5162b-8743-4ed5-90ad-4de8260fa75b', 'outside_temperature': 9138, 'sensor_id': 'a8c88dd5-4573-4dc8-99d1-85b90bc07190', 'timestamp': 'a4ea6c4c-acb1-4eb2-8727-590ad5bd565a'}}
+2021-11-03 13:37:03,889 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:03,968 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:15', 'payload': {'address_id': '0a440afd-e326-4a82-bfd8-bee6159ddee5', 'outside_temperature': 4051, 'sensor_id': '6fb5a422-fd83-4828-9de9-1702b3b65583', 'timestamp': '82b1827c-f524-4007-9e0e-3ec04c6498cf'}}
+2021-11-03 13:37:04,212 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:04,291 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:15', 'payload': {'address_id': '2e0cccba-b11a-4205-990d-d502832697b0', 'outside_temperature': 4755, 'sensor_id': 'c052fb0a-a674-400d-b3e4-1fbe5c908093', 'timestamp': 'dd2a60e4-7ddc-4247-885d-f91642a30401'}}
+2021-11-03 13:37:04,543 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:04,619 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:16', 'payload': {'address_id': '598b2171-65b9-444a-baae-be91fd805858', 'outside_temperature': 4148, 'sensor_id': '1c77164e-8513-42eb-aa06-a8e1dd1920f5', 'timestamp': 'ced38b1c-e7d4-4294-bcaa-ed982eb83b5f'}}
+2021-11-03 13:37:04,868 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:04,942 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:16', 'payload': {'address_id': '2dce7922-b3e4-4719-b256-eb3321c70eb7', 'outside_temperature': 4068, 'sensor_id': 'abe1ca75-acd5-4861-a2bb-4d857393e57d', 'timestamp': '8d207440-7600-42a0-b494-bedfa61dc601'}}
+2021-11-03 13:37:05,192 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:05,272 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:16', 'payload': {'address_id': '4ee4b4bb-45cc-48f8-8ece-41846a513894', 'outside_temperature': 6897, 'sensor_id': '7acc5923-2cd4-47e4-87d5-5b095a87128a', 'timestamp': '2cc56ddd-0833-4796-a109-02ed26a92447'}}
+2021-11-03 13:37:05,520 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:05,598 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:21', 'payload': {'address_id': 'c641d27e-61aa-4466-85a7-044804b8287b', 'sensor_id': '706dada5-9644-41d8-b936-1dffc56aa1ca', 'timestamp': '801943a9-41f7-4a65-adc3-5ec07facd60a', 'wind_speed': 3053}}
+2021-11-03 13:37:05,843 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:05,920 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:21', 'payload': {'address_id': 'f6f99aad-4fe3-48a5-ba1d-041c3a285d60', 'sensor_id': '10ca14c2-21d7-4c02-a689-b2873e609034', 'timestamp': '32443ffe-7762-4c9b-a7c2-b45a90ee9f43', 'wind_speed': 7833}}
+2021-11-03 13:37:06,164 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:06,242 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:21', 'payload': {'address_id': '9713bfdb-565e-4565-928e-3cef41aff983', 'sensor_id': '85e00291-d8be-433f-b211-456a75933e4f', 'timestamp': '2c35f563-4c64-4e87-b0f3-571c4cbb2fc0', 'wind_speed': 968}}
+2021-11-03 13:37:06,489 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:06,500 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:01Z returns 10 results
+2021-11-03 13:37:06,567 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:21', 'payload': {'address_id': 'f5701803-d9db-400b-ab56-c842c021c596', 'sensor_id': 'cc5375d2-e89d-4d2a-b63e-f90feec58a19', 'timestamp': '41369808-a472-4ae1-a382-f450a107e69d', 'wind_speed': 961}}
+2021-11-03 13:37:06,754 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:01Z returns 7 results
+2021-11-03 13:37:06,815 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:06,891 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:21', 'payload': {'address_id': 'e65bc3b0-ea72-4c17-8d50-b21a32abb0e6', 'sensor_id': '89a62d12-988b-443b-80f1-702e9ada9477', 'timestamp': '1cfaca5c-73e3-4353-b296-9d43099545b3', 'wind_speed': 435}}
+2021-11-03 13:37:07,138 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:07,217 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:21', 'payload': {'address_id': '0a57f7cf-1231-455e-83a0-c4d3690b6169', 'sensor_id': 'f1987d3c-bcd2-4add-b346-714999804f16', 'timestamp': '8cd063c0-0b30-437c-b515-fba80b227aef', 'wind_speed': 1361}}
+2021-11-03 13:37:07,464 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:07,542 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:21', 'payload': {'address_id': 'd8620c68-0b3b-4f90-861e-0ef0315645ac', 'sensor_id': '982169ce-f98b-4bb9-82ef-1f5f0af93749', 'timestamp': 'bb7f6ca8-0f8d-4943-b1f9-538d4b7de286', 'wind_speed': 8767}}
+2021-11-03 13:37:07,787 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:07,863 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:22', 'payload': {'address_id': '4cc7571a-9259-48bd-aae9-327330efcb4c', 'sensor_id': 'db39eb1a-1fa6-4932-971d-824025862fde', 'timestamp': '4e46a95e-e6d7-4350-9fc8-399280788ccf', 'wind_speed': 7208}}
+2021-11-03 13:37:08,112 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:08,189 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:22', 'payload': {'address_id': '6a937c2a-0c0c-4384-97ed-0e43e8e89593', 'sensor_id': '9a6f199a-beee-443f-89d0-1b70ec629f07', 'timestamp': '519a2ee9-bb69-4e11-acdf-9b32e95aefb0', 'wind_speed': 1669}}
+2021-11-03 13:37:08,435 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:08,512 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:22', 'payload': {'address_id': 'd6823c63-9224-4b13-82b3-763602ea0eb6', 'sensor_id': 'b46d8bc1-179c-4235-bce1-20e98ca1145d', 'timestamp': '2266ecdf-e0d4-46ba-afb2-68b4f89f58e0', 'wind_speed': 2300}}
+2021-11-03 13:37:08,759 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:08,837 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:26', 'payload': {'address_id': '88cfe2ce-0221-4c68-a890-6cb2440cf084', 'outside_temperature': 9390, 'sensor_id': 'c7d560bd-7a5b-4e85-abf3-e10554a3f327', 'timestamp': '08e426bf-b5a2-4374-bebb-7ab3183e3cb5'}}
+2021-11-03 13:37:09,086 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:09,162 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:26', 'payload': {'address_id': 'fa1f027f-6ada-46c4-ae8e-cde186e12e24', 'outside_temperature': 6390, 'sensor_id': 'a9b4d770-b3b0-4245-9d45-2dd464fd7b26', 'timestamp': '7767563c-54f6-4cf3-a4f3-56acdf1e6555'}}
+2021-11-03 13:37:09,414 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:09,490 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:26', 'payload': {'address_id': '730bb2da-1474-4339-8aee-d2d4017464f2', 'outside_temperature': 7742, 'sensor_id': 'ec30133f-4a7f-48fb-a27a-6315ff4f26f7', 'timestamp': '39c498f5-4df2-4018-b1d1-5a8586bb94a3'}}
+2021-11-03 13:37:09,737 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:09,814 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:26', 'payload': {'address_id': '2504f912-2166-446a-ae26-31fc197772ce', 'outside_temperature': 8196, 'sensor_id': 'ebf19432-7e6f-4ab0-814b-e6eb2483d6ba', 'timestamp': 'd88b5b41-dcfa-483f-b355-0ebbbaf6ed36'}}
+2021-11-03 13:37:10,062 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:10,138 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:26', 'payload': {'address_id': 'dc7c0977-7d50-45ce-881f-e0b24d4dea28', 'outside_temperature': 1165, 'sensor_id': '12c86c34-170e-46ee-9d77-ed594598110f', 'timestamp': 'c344e4aa-12b5-49fa-859a-9eccfcdb04cc'}}
+2021-11-03 13:37:10,388 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:10,467 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:26', 'payload': {'address_id': '64063f10-80b3-472a-b9f4-039d0e99a83a', 'outside_temperature': 3732, 'sensor_id': '8c05ff59-a70c-4842-9327-e64a5193b866', 'timestamp': '89f834c1-de40-4926-9b86-5da6c686d47c'}}
+2021-11-03 13:37:10,718 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:10,796 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:26', 'payload': {'address_id': '61533932-9028-4099-af5d-8a76ea1bb9df', 'outside_temperature': 811, 'sensor_id': 'a19a8d0a-d659-425d-b9b3-317984a5c901', 'timestamp': '65a8def5-d3a1-43de-afcf-5f323fa4e069'}}
+2021-11-03 13:37:11,040 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:11,118 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:27', 'payload': {'address_id': 'e798fd46-1c20-4736-ac66-0be6144f6518', 'outside_temperature': 2144, 'sensor_id': '422e24ab-e706-4b1a-ab8f-709187d5ecc9', 'timestamp': '869f95a2-e5de-46a2-8a05-f83255d38e70'}}
+2021-11-03 13:37:11,362 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:11,439 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:27', 'payload': {'address_id': 'd8df390d-5814-4b1c-8ad0-aae29ab00ce4', 'outside_temperature': 257, 'sensor_id': 'ac317c63-67e0-45ec-875d-47f6735dc623', 'timestamp': '9264f665-84ff-4d12-9921-c22dac01950b'}}
+2021-11-03 13:37:11,502 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:06Z returns 8 results
+2021-11-03 13:37:11,683 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:11,758 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:27', 'payload': {'address_id': 'ace743d5-d7a5-4b8b-898c-a99defaf6573', 'outside_temperature': 4699, 'sensor_id': 'a3eb9da2-d826-411b-b77a-9eb34d5b5581', 'timestamp': '82fabd23-3849-4087-8d72-dee81cc4f377'}}
+2021-11-03 13:37:11,760 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:06Z returns 8 results
+2021-11-03 13:37:12,010 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:12,086 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:32', 'payload': {'address_id': 'c9c67c01-10c8-43d6-9fb9-6e2b4e8d75e4', 'sensor_id': '277e4191-6a4e-4820-9d05-b822b26a83f8', 'timestamp': '3ee2fdb6-dcb6-4a8c-9c69-a1a961aa2a0f', 'wind_speed': 9148}}
+2021-11-03 13:37:12,331 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:12,411 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:32', 'payload': {'address_id': 'e3a69729-21a9-40f2-86db-45dbbd86d527', 'sensor_id': '2c1e59b9-3d3e-4720-a349-d2fc97a5668e', 'timestamp': '2a12274e-54ec-4ca6-9300-9dd18139a9b9', 'wind_speed': 3641}}
+2021-11-03 13:37:12,656 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:12,734 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:32', 'payload': {'address_id': 'e3cc43fc-7afe-4ee4-8333-6a28ef1b3dbe', 'sensor_id': '4b5c0b43-9183-4315-89d1-74712e85817e', 'timestamp': 'c71d4126-2f3c-44a7-920a-e5ec99fd99cb', 'wind_speed': 1971}}
+2021-11-03 13:37:12,980 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:13,057 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:32', 'payload': {'address_id': '31dfcbdc-d71f-4b99-ac33-c63dffa0fb5c', 'sensor_id': '03172d39-7cd1-4d00-b848-0ae3829f86d5', 'timestamp': '00e6ec96-0044-4d31-be04-bf2244c1c8a3', 'wind_speed': 7126}}
+2021-11-03 13:37:13,309 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:13,385 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:32', 'payload': {'address_id': '9c7abd7a-e359-43d6-bb9e-a1cee45d320c', 'sensor_id': 'a7e8c263-9b62-436e-9120-618399cefc77', 'timestamp': 'c5c9522b-7951-48cc-b346-93e0683506ca', 'wind_speed': 5957}}
+2021-11-03 13:37:13,630 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:13,707 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:32', 'payload': {'address_id': 'e3ce90df-9b25-43e0-84bd-9b437fb6ea51', 'sensor_id': '675e5943-117e-40c8-91ca-2de8597e5032', 'timestamp': '3271066b-9157-4bb8-bd28-f33b898deff8', 'wind_speed': 3315}}
+2021-11-03 13:37:14,019 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:14,095 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:32', 'payload': {'address_id': '4ef281f9-92f1-4a55-99e9-d259276ade90', 'sensor_id': '0d8a53f5-780e-425e-a689-01db3648bdee', 'timestamp': '5dfae66e-4e31-44fc-81d1-eadace16a153', 'wind_speed': 3942}}
+2021-11-03 13:37:14,341 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:14,417 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:33', 'payload': {'address_id': '359f0222-ffb4-4cdb-b841-7993e4648cb3', 'sensor_id': '9e7e7703-9f98-4a02-9aa9-a3ce0196e2c0', 'timestamp': '79bfa25c-9d4e-4e9e-9912-08cc7bdecd72', 'wind_speed': 9309}}
+2021-11-03 13:37:14,666 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:14,741 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:33', 'payload': {'address_id': '4fc3b101-1ea1-46e9-b182-a8bdb5f666ae', 'sensor_id': 'a4d14945-fae1-46bf-9441-53b24a7985dd', 'timestamp': 'a3244dd9-ddcb-4666-b588-96815e817292', 'wind_speed': 3430}}
+2021-11-03 13:37:14,989 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:15,066 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:33', 'payload': {'address_id': '87c42c02-1173-4ba5-bf87-a306d6aaa25e', 'sensor_id': 'ecfd4e21-5760-45f2-89d0-deff2165638e', 'timestamp': 'c60cc401-f0f1-4b0a-9b4a-4adb31593c34', 'wind_speed': 9577}}
+2021-11-03 13:37:15,319 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:15,397 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:38', 'payload': {'address_id': '7ff1fd99-b043-44bb-871c-3f3ca260d947', 'outside_temperature': 4763, 'sensor_id': 'd497b520-c67a-4506-9796-e96d51eefe82', 'timestamp': '874dac8c-d431-4c86-bfb4-271236d25d5e'}}
+2021-11-03 13:37:15,642 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:15,718 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:37', 'payload': {'address_id': '9650d3e1-fb55-454e-8805-ad836074da29', 'outside_temperature': 7232, 'sensor_id': 'ec49b156-e714-4469-9b88-40a65b167c7b', 'timestamp': '8b8729f7-3071-4292-a629-8dd7fbd99f94'}}
+2021-11-03 13:37:15,971 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:16,051 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:37', 'payload': {'address_id': '29f803aa-f340-40e7-a05e-429129fb8f9f', 'outside_temperature': 9199, 'sensor_id': 'c5e89c33-bc32-4a97-8263-26a6be24bba7', 'timestamp': '8cef7f55-5a15-4fae-a218-ab74d213cf68'}}
+2021-11-03 13:37:16,296 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:16,374 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:38', 'payload': {'address_id': '759da579-dff1-4b78-913e-11b8b147bf04', 'outside_temperature': 4187, 'sensor_id': 'c4fb9fa9-f84d-4888-b36d-e1c874eaa7a2', 'timestamp': '0d3c03c6-7b87-4e09-ad8d-f16aaf2285b9'}}
+2021-11-03 13:37:16,498 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:11Z returns 6 results
+2021-11-03 13:37:16,622 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:16,700 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:37', 'payload': {'address_id': 'f82865eb-cc69-4ee7-b957-6700f98ea8ea', 'outside_temperature': 8526, 'sensor_id': '6d26ae5c-c172-4d94-9dad-a4a93de376fc', 'timestamp': '13486e6b-15b4-4810-82b6-ae440a05d102'}}
+2021-11-03 13:37:16,761 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:11Z returns 10 results
+2021-11-03 13:37:16,946 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:17,025 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:38', 'payload': {'address_id': '09285f8f-f200-454e-8a57-9d9508557583', 'outside_temperature': 3927, 'sensor_id': '1ff4a268-ab00-46ad-a8f1-8ac088638340', 'timestamp': 'ab92db1a-4ac8-416c-a011-934df1650cec'}}
+2021-11-03 13:37:17,273 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:17,350 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:38', 'payload': {'address_id': '946aa58f-bc21-4882-9f08-178c7bf36ca4', 'outside_temperature': 9960, 'sensor_id': '25cf2f52-12fd-4a66-9f86-eb64bc46bd60', 'timestamp': 'be4fc05c-c022-480b-999c-988e9d1362ff'}}
+2021-11-03 13:37:17,595 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:17,672 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:38', 'payload': {'address_id': '804f5462-cfce-41c3-80f5-4f29e0e0185e', 'outside_temperature': 2626, 'sensor_id': '3bef64a9-8707-4ece-bf25-7ab83f4332f6', 'timestamp': 'bd3e0e1d-5616-46c6-81ac-399ffd3768e0'}}
+2021-11-03 13:37:17,919 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:17,996 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:38', 'payload': {'address_id': '055067e0-b7bd-4831-a40c-c62f92607227', 'outside_temperature': 5149, 'sensor_id': 'd20a52e8-e84d-41d6-96ce-dfca13cd0c58', 'timestamp': 'd44f847d-77e7-4dbd-9251-c4a798b07ca2'}}
+2021-11-03 13:37:18,242 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:18,322 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:38', 'payload': {'address_id': '31c252bc-398e-48f9-8605-5dbc6e0f6f4d', 'outside_temperature': 6893, 'sensor_id': 'c14c7382-0e95-4509-83db-ff3b62f8d341', 'timestamp': 'ae29ebb9-6787-4560-8d63-56956cdb2907'}}
+2021-11-03 13:37:18,567 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:18,643 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:43', 'payload': {'address_id': 'f671d041-2a3c-4e94-b529-951fe6857519', 'sensor_id': 'fe0c8a53-b6dc-4488-822b-28e78131c403', 'timestamp': '44ca70be-9b67-4114-b89d-891a0901f760', 'wind_speed': 211}}
+2021-11-03 13:37:18,892 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:18,969 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:43', 'payload': {'address_id': '1a47d65a-3533-47bf-a683-272b7cec6939', 'sensor_id': 'f738880b-7a2a-45d9-a84e-fbcdae4fcf71', 'timestamp': '62cad1dd-6668-40ac-8365-e5f15036019e', 'wind_speed': 3322}}
+2021-11-03 13:37:19,216 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:19,294 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:43', 'payload': {'address_id': 'bc3e109e-9e88-408f-88d1-596475858a6f', 'sensor_id': '72a6cd47-3c30-4278-9c36-9f768f7b8505', 'timestamp': 'cbcf7584-5a6b-42ee-bd4d-428c2d4346bb', 'wind_speed': 9113}}
+2021-11-03 13:37:19,539 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:19,615 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:43', 'payload': {'address_id': 'd255bdd5-b627-45a2-94f4-eae0c3886218', 'sensor_id': '30218077-0e10-4f85-bdc2-9ec09e2d7663', 'timestamp': '48b1974c-6f97-47cf-844c-78b0e1ee1659', 'wind_speed': 6777}}
+2021-11-03 13:37:19,863 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:19,940 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:43', 'payload': {'address_id': 'e9c7f6da-a3dd-4788-9ab8-3aeeccfa78d8', 'sensor_id': '50062396-6ce5-4fe3-993a-876ad9684f46', 'timestamp': '64699c4f-d9bf-4806-b410-def7c5786e94', 'wind_speed': 4607}}
+2021-11-03 13:37:20,187 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:20,266 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:43', 'payload': {'address_id': 'fe09ea97-a659-4641-a22c-12245ddb47df', 'sensor_id': '1b4ea4b4-3025-4d61-9aa4-b8db0be8ee9d', 'timestamp': 'f57ff26f-5840-4da4-bbc5-c6968bc7307d', 'wind_speed': 800}}
+2021-11-03 13:37:20,510 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:20,587 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:43', 'payload': {'address_id': '58bbd49a-fbe4-4185-865b-83b0638eaca4', 'sensor_id': 'a2e313ff-c112-4321-ad97-a8ddb2f93822', 'timestamp': 'cea9108a-f45c-46f7-b0b5-c288e3dc6725', 'wind_speed': 1496}}
+2021-11-03 13:37:20,833 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:20,910 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:44', 'payload': {'address_id': 'cbde8fb5-bf8a-4774-bc27-d0c907c9ab4b', 'sensor_id': '408cd9c1-d3a6-4588-8ab1-f90bdf5f81db', 'timestamp': '19f327cd-ff99-4ce1-b9ae-3f707ae01e03', 'wind_speed': 3257}}
+2021-11-03 13:37:21,160 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:21,237 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:44', 'payload': {'address_id': '4b3537db-4b01-4588-b534-3a5c6f43e2f4', 'sensor_id': '06caa1f4-aee3-42b2-b7fc-34ed3bcefc8c', 'timestamp': '43d9a7a2-123a-4f67-bf3e-2b4b213b6fed', 'wind_speed': 2531}}
+2021-11-03 13:37:21,497 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:21,505 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:16Z returns 8 results
+2021-11-03 13:37:21,574 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:44', 'payload': {'address_id': '5ec7fa8c-fbd8-44a3-afde-388864d771da', 'sensor_id': '98f88ab0-ece6-4ae7-8250-3b4478573eee', 'timestamp': 'e5401daa-2de5-4c5f-92e9-7d04be5eb29a', 'wind_speed': 5677}}
+2021-11-03 13:37:21,767 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:16Z returns 9 results
+2021-11-03 13:37:21,821 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:21,900 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:49', 'payload': {'address_id': 'eb147f1d-0d28-4282-b5ca-2798f1c8ec61', 'outside_temperature': 664, 'sensor_id': '356a4110-2540-4506-861a-7f9ac1118bd6', 'timestamp': '59b0ad74-8cd1-4411-aaf2-a72dbc34ba13'}}
+2021-11-03 13:37:22,146 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:22,222 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:49', 'payload': {'address_id': '07dc5b67-5ddf-40bc-b212-e90b0ca24b60', 'outside_temperature': 206, 'sensor_id': 'a2c06a76-6e50-43e8-922e-f80167423963', 'timestamp': '4dccd56e-20a8-4d16-8b48-71e8f9a68981'}}
+2021-11-03 13:37:22,468 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:22,549 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:49', 'payload': {'address_id': '5f11ada4-b7be-4e71-a4be-c5c482dd00a3', 'outside_temperature': 6449, 'sensor_id': 'b6466936-32dd-460d-a242-1b8188ddb8fd', 'timestamp': 'fa4fb8fd-d047-4078-82f8-92de73e52b6a'}}
+2021-11-03 13:37:22,794 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:22,870 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:49', 'payload': {'address_id': '5470b30e-ba8a-4159-ba3f-e2a821d9b877', 'outside_temperature': 3424, 'sensor_id': '4aefcbea-efd1-4d64-a4bf-e9a859aaa0dd', 'timestamp': '3c543975-f668-476a-b87e-b1b0ae1fd004'}}
+2021-11-03 13:37:23,117 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:23,195 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:49', 'payload': {'address_id': '886eda52-6306-4ef8-910a-86fa491c412f', 'outside_temperature': 9682, 'sensor_id': '93ad2d87-2980-4f1e-927a-6e6e22a26d99', 'timestamp': '65ab2d73-a262-413e-a035-ffd681fcc425'}}
+2021-11-03 13:37:23,449 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:23,527 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:49', 'payload': {'address_id': 'e0edd322-ac06-4845-a392-44a765786c14', 'outside_temperature': 4272, 'sensor_id': '664dc1fe-bf26-4631-aa34-22a31bae08ae', 'timestamp': 'e46afb8e-8a06-4a03-b040-ba70e3505476'}}
+2021-11-03 13:37:23,770 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:23,853 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:49', 'payload': {'address_id': 'db894c20-c0ed-43b2-b73d-a7596e4e706c', 'outside_temperature': 7109, 'sensor_id': 'c2b91750-8d09-44cb-8b4e-03957f25eea6', 'timestamp': 'dd0d8783-f559-49d8-8f2f-cb4b59321ace'}}
+2021-11-03 13:37:24,100 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:24,177 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:49', 'payload': {'address_id': '62f9cfa6-8d36-4103-a001-7315f1d705a2', 'outside_temperature': 9061, 'sensor_id': '81c175f3-9c62-40f9-a0ca-9cbc74e7742f', 'timestamp': '6871423d-2658-43fb-b3d1-68c00574cc30'}}
+2021-11-03 13:37:24,423 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:24,500 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:49', 'payload': {'address_id': 'ab6df9f1-722b-4a34-9648-b21b153df378', 'outside_temperature': 5361, 'sensor_id': 'c22d5052-1487-4c32-99fd-a7abc9be6287', 'timestamp': 'd4d9a8af-5ae6-45c2-bf84-df4ce2e40107'}}
+2021-11-03 13:37:24,748 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:24,826 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:34:49', 'payload': {'address_id': 'ef457464-730c-4217-a0bc-9c3a6e778d2f', 'outside_temperature': 4636, 'sensor_id': 'b42867ca-3500-4ce8-af18-ec63d2cfcf45', 'timestamp': '974fdc52-8154-4667-942f-cf3a7f8faa37'}}
+2021-11-03 13:37:25,073 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:25,151 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:54', 'payload': {'address_id': 'e5a34995-013b-4d67-81af-c6eccde0c3e2', 'sensor_id': '6776c584-bfee-4fcb-b3a5-1df461ab4813', 'timestamp': '0982fb4f-d0ee-4e97-bbb4-479b85f03225', 'wind_speed': 3820}}
+2021-11-03 13:37:25,394 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:25,470 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:54', 'payload': {'address_id': 'dc1343c9-f1ee-4073-a989-cd7a714a9e8a', 'sensor_id': '98f8484f-cddb-4bd8-b7b3-2d848f3f23c5', 'timestamp': '1b451a3c-8347-4176-8431-9a9c09a0246e', 'wind_speed': 5615}}
+2021-11-03 13:37:25,717 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:25,794 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:54', 'payload': {'address_id': '06dc18c6-086d-45ad-8be1-cac7ddcc9ee3', 'sensor_id': 'cdff830e-57aa-49e1-8302-8d248e405580', 'timestamp': 'c1cb6f3c-956a-4635-a8e2-10f86f217ad9', 'wind_speed': 6156}}
+2021-11-03 13:37:26,041 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:26,121 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:54', 'payload': {'address_id': '92bdb362-f8f9-41f6-bd59-fc31bf6ae1d7', 'sensor_id': 'ddd88966-f74f-493f-ab57-1d61ec72ea90', 'timestamp': 'b27bf110-60a7-40f3-b742-106173099cd8', 'wind_speed': 2078}}
+2021-11-03 13:37:26,370 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:26,446 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:54', 'payload': {'address_id': '88bb717c-39f4-45f1-90d2-0a80a3f4b096', 'sensor_id': 'e56ba18b-f211-4e39-96bd-767d72f310d9', 'timestamp': '227f011d-0415-4daf-8fd0-8c9d646152ea', 'wind_speed': 9011}}
+2021-11-03 13:37:26,497 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:21Z returns 10 results
+2021-11-03 13:37:26,694 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:26,762 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:21Z returns 6 results
+2021-11-03 13:37:26,772 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:54', 'payload': {'address_id': 'd04b7588-1732-4741-a2f5-d76cac65cf71', 'sensor_id': 'aafa41f4-b55d-4229-904e-1af540a03670', 'timestamp': '7123b114-3cdc-4159-badc-a15ef0633ebb', 'wind_speed': 1374}}
+2021-11-03 13:37:27,025 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:27,101 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:54', 'payload': {'address_id': '8d67cc04-18ef-434d-a620-6400b949979c', 'sensor_id': '8548b6dc-93b2-43e3-abe7-e954954a7c88', 'timestamp': '2d5e4968-a9b0-4cb5-b533-b93e2ea04e34', 'wind_speed': 9213}}
+2021-11-03 13:37:27,370 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:27,447 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:55', 'payload': {'address_id': '5cbcb49d-0962-4472-9dfe-f9648de65107', 'sensor_id': '4d20245b-61da-4824-8a1b-446208ef3dcf', 'timestamp': '19900ad7-cc71-4ec2-8260-47250a62dd8f', 'wind_speed': 2389}}
+2021-11-03 13:37:27,695 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:27,772 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:55', 'payload': {'address_id': '700ed25a-f807-4c31-ba90-2e2490003448', 'sensor_id': '320cd7d4-59c1-461e-847b-9707a4c1fa1d', 'timestamp': '75df864e-2907-47df-82c6-da2e60200f75', 'wind_speed': 9151}}
+2021-11-03 13:37:28,018 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:28,093 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:34:55', 'payload': {'address_id': '4afcb5e3-d5ef-40ad-86f7-0092ba1b5666', 'sensor_id': '2a845b97-1fb5-46b6-a9ac-6394bc6b5926', 'timestamp': '60d2abce-0d32-488c-bd07-a4f1fc3c736d', 'wind_speed': 9118}}
+2021-11-03 13:37:28,363 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:28,439 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:00', 'payload': {'address_id': '16b5ef63-9d70-4075-b1a6-54902b34ae98', 'outside_temperature': 9795, 'sensor_id': '0f94ca64-5e85-4834-a740-258de7329aee', 'timestamp': '3f4f57fb-432f-4b21-a6fd-69122eac81a5'}}
+2021-11-03 13:37:28,684 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:28,766 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:00', 'payload': {'address_id': 'b0652197-1bc6-4b37-9f38-3228a9af9b38', 'outside_temperature': 7754, 'sensor_id': '89f49aa7-5c8a-47ef-9eda-b611da86c101', 'timestamp': '2527eb77-e4a6-431b-aa56-e50013c48732'}}
+2021-11-03 13:37:29,020 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:29,096 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:00', 'payload': {'address_id': '2e9a0324-7da2-4cb8-91ba-8c179059ff7a', 'outside_temperature': 2934, 'sensor_id': '8779fc85-a785-4484-b63f-4b7c48a41689', 'timestamp': '701f56ca-ad2f-46ab-a351-8a3135574b6b'}}
+2021-11-03 13:37:29,348 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:29,424 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:00', 'payload': {'address_id': '21733fc3-7fc7-45d0-a37e-218490187f92', 'outside_temperature': 8316, 'sensor_id': 'b0f88360-0c9d-4f5a-a3e5-c639f0443c54', 'timestamp': '3c13240b-baf9-4237-afec-02e41a53a8ca'}}
+2021-11-03 13:37:29,670 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:29,747 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:00', 'payload': {'address_id': '5a5c76bf-c21b-4443-9f62-da59f0089331', 'outside_temperature': 7305, 'sensor_id': '80ba8166-68af-4104-908d-2136f4d9a526', 'timestamp': '6553a5c4-d18d-4bd4-8dbc-045270d99004'}}
+2021-11-03 13:37:29,993 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:30,070 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:00', 'payload': {'address_id': 'd7190d27-e699-4cc6-a41b-3146926e0a88', 'outside_temperature': 7961, 'sensor_id': '3b7d06f4-9385-4403-ac5c-37f594649b03', 'timestamp': '2a24644e-2fd5-432a-9173-896a776809f7'}}
+2021-11-03 13:37:30,315 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:30,390 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:00', 'payload': {'address_id': '5ecb50d3-fa96-4c9b-9db5-13d6703bccc6', 'outside_temperature': 5888, 'sensor_id': '0772524b-42e4-4543-9d4e-c097b9d1025d', 'timestamp': 'd1b1c10c-721a-4953-8705-71d548f34846'}}
+2021-11-03 13:37:30,635 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:30,711 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:00', 'payload': {'address_id': '8b867666-ed1f-493b-bd36-c899acc34bbe', 'outside_temperature': 4081, 'sensor_id': '432e37b7-bec6-41db-8978-1e4436cc7066', 'timestamp': '84912e5a-f076-4009-abb2-22eca2b5c888'}}
+2021-11-03 13:37:30,956 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:31,032 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:01', 'payload': {'address_id': 'caac2a0c-76f8-4817-8c1a-b485811e0c7c', 'outside_temperature': 869, 'sensor_id': '0f7d1b97-732e-405d-9244-47202d34e9a8', 'timestamp': '5cf98986-15f9-4601-9fd0-84d146be1444'}}
+2021-11-03 13:37:31,280 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:31,356 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:01', 'payload': {'address_id': '72e648d9-a164-4a93-90fe-368e46df6f93', 'outside_temperature': 1544, 'sensor_id': '8951eb9c-ad32-4a7b-9aa4-b10f19de2245', 'timestamp': 'aba105b6-fc90-40d2-a8e1-d1c1156717df'}}
+2021-11-03 13:37:31,506 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:26Z returns 9 results
+2021-11-03 13:37:31,602 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:31,681 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:05', 'payload': {'address_id': '73bc21b8-8be5-4b9e-84bb-548a9908bbdc', 'sensor_id': 'b41798ed-5e4a-4c31-8ccc-fb5956513f6e', 'timestamp': '64e34432-1799-4538-bdd5-ca8b6c227823', 'wind_speed': 4164}}
+2021-11-03 13:37:31,767 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:26Z returns 7 results
+2021-11-03 13:37:31,933 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:32,012 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:05', 'payload': {'address_id': 'cbcfca80-8470-4150-a350-f641e35bcd53', 'sensor_id': '2d8602bc-be43-4890-b02e-b501c225e96c', 'timestamp': '9aed6dba-1119-479b-bee3-419997725178', 'wind_speed': 1756}}
+2021-11-03 13:37:32,259 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:32,336 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:05', 'payload': {'address_id': 'b21b93d6-47f8-4d26-862f-56488396ca64', 'sensor_id': '3b1fb94e-6b10-4d60-a148-589ea9aa8267', 'timestamp': 'f77ca34d-2853-4117-940c-004800be816d', 'wind_speed': 1108}}
+2021-11-03 13:37:32,587 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:32,663 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:05', 'payload': {'address_id': '8979c91f-29ab-4feb-89b7-260649ebf027', 'sensor_id': 'b595f429-404d-43ea-896a-dc7519e255ea', 'timestamp': '3332495e-2f12-457e-81e6-25c691c0cc2e', 'wind_speed': 8944}}
+2021-11-03 13:37:32,908 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:32,984 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:05', 'payload': {'address_id': 'e2f18a34-76be-42be-aa60-29dfbbe5db2b', 'sensor_id': '12e6d713-b244-414c-8b05-28c06cc857ce', 'timestamp': '6c225f34-f434-46cc-bedc-5440d21726d9', 'wind_speed': 8197}}
+2021-11-03 13:37:33,231 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:33,308 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:06', 'payload': {'address_id': '19564450-83e4-4115-8994-1c4f1e757fe8', 'sensor_id': 'c2bf107f-832c-4ee1-b441-8f2433bdad6c', 'timestamp': '8031914d-6387-4dae-b6bd-27d2781a56f5', 'wind_speed': 86}}
+2021-11-03 13:37:33,558 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:33,634 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:06', 'payload': {'address_id': '74ca6226-8d44-4911-bfee-d69fcb630966', 'sensor_id': '72e48b4a-3851-411b-8a70-176bda540700', 'timestamp': '79240ddc-8aec-4ab4-a929-a765ec38d4ea', 'wind_speed': 7030}}
+2021-11-03 13:37:33,886 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:33,963 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:06', 'payload': {'address_id': '6b5770bb-179b-48d6-960e-828612ed27f4', 'sensor_id': '858e4e18-9922-43d6-bf7c-a489e3afb044', 'timestamp': '37cff7d5-da6d-424e-bdf8-ddd4a2eaf2b2', 'wind_speed': 6252}}
+2021-11-03 13:37:34,215 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:34,296 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:06', 'payload': {'address_id': '42c20f82-7bed-4ff1-b07c-0582262a25c0', 'sensor_id': 'cd08f9bb-509e-48bb-9307-e25186dd3c07', 'timestamp': '21e24d71-e848-4fd7-9bc7-3391d3cd2170', 'wind_speed': 6660}}
+2021-11-03 13:37:34,540 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:34,619 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:06', 'payload': {'address_id': '402651f0-a00f-4508-96ad-f8d313753dd1', 'sensor_id': '1b815c87-9ef5-4a18-b8e0-61a509f3bd38', 'timestamp': '7f1178ba-257e-4a36-8ad6-4c34ae2d7327', 'wind_speed': 240}}
+2021-11-03 13:37:34,867 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:34,945 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:11', 'payload': {'address_id': '3ccb693e-cd08-4c99-b417-e2d1b094a07c', 'outside_temperature': 5694, 'sensor_id': 'd6ea0e32-d531-4875-bff4-bf7149162b2e', 'timestamp': '304dc6bf-af2c-429d-b932-b49f4ccc169d'}}
+2021-11-03 13:37:35,192 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:35,269 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:11', 'payload': {'address_id': 'df3c2bcc-b31f-4312-a279-e957d23560c9', 'outside_temperature': 4669, 'sensor_id': '97396248-5724-4f59-8672-05e15fe37d11', 'timestamp': '6b62b90c-da16-42bf-9ccb-a42a55122e95'}}
+2021-11-03 13:37:35,519 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:35,595 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:11', 'payload': {'address_id': '3741f12e-cda7-4c8b-8de0-03eea9ea50f8', 'outside_temperature': 9206, 'sensor_id': '1b0253e3-f02f-4b99-9b60-9d9dbec2db27', 'timestamp': '04221364-5eb1-4055-aca3-43cfa766d719'}}
+2021-11-03 13:37:35,847 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:35,923 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:11', 'payload': {'address_id': 'db966f38-f7dd-4ac9-9596-5450737f1c63', 'outside_temperature': 1518, 'sensor_id': '7ba5048e-cc7e-40e1-87f4-8e6a64f1f06b', 'timestamp': '0969de0c-21cd-43c7-80df-a73ad8bb114b'}}
+2021-11-03 13:37:36,168 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:36,248 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:11', 'payload': {'address_id': '3411803b-644d-414a-8b7a-30c1bbcdfe3d', 'outside_temperature': 5663, 'sensor_id': '94c5fc07-783a-4167-b582-48aa1ca4710c', 'timestamp': '54b5a869-2ac5-40ba-98cf-ab99886c235e'}}
+2021-11-03 13:37:36,494 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:36,507 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:31Z returns 6 results
+2021-11-03 13:37:36,572 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:11', 'payload': {'address_id': '0cfa1284-8978-421f-b078-5082b55852e5', 'outside_temperature': 7389, 'sensor_id': 'd0a8d895-b060-4470-9d19-9cd68f706ebf', 'timestamp': '76b24598-b86f-48c1-b1eb-ee9013d597b7'}}
+2021-11-03 13:37:36,763 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:31Z returns 10 results
+2021-11-03 13:37:36,827 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:36,903 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:11', 'payload': {'address_id': 'e4689d8a-38bf-4e3c-a2d6-3d73be784f77', 'outside_temperature': 3495, 'sensor_id': '30ea9cb2-779b-439e-86fb-80e08a965027', 'timestamp': '0b79b5d4-9e25-477c-930f-d30c917e1143'}}
+2021-11-03 13:37:37,161 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:37,240 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:11', 'payload': {'address_id': '3c0a48a9-6d8e-41f0-9466-f7952d240bd4', 'outside_temperature': 4105, 'sensor_id': '7b7d9992-6a0d-4a56-8bbf-78874b08f72a', 'timestamp': 'bfe4665b-4bb0-4f96-bb6e-a141cced20c9'}}
+2021-11-03 13:37:37,489 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:37,565 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:12', 'payload': {'address_id': '73377162-19c9-47b3-9b66-f058fce0dc35', 'outside_temperature': 5462, 'sensor_id': 'fb48353e-7f5b-4721-8332-3150a5628923', 'timestamp': '9544e73b-8d32-4ebe-a228-22cb046acd71'}}
+2021-11-03 13:37:37,808 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:37,888 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:12', 'payload': {'address_id': '9331f58a-ad1d-43ac-80f0-9c0f87e51911', 'outside_temperature': 9440, 'sensor_id': '8ef8bb83-912d-46fc-9d81-6fcd70f08ae7', 'timestamp': '1db3bffc-3ca5-4d30-8b89-36fb4b8e2962'}}
+2021-11-03 13:37:38,145 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:38,223 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:16', 'payload': {'address_id': '7c8fbceb-ce3d-4497-b5d1-9a7e2a9cbdaa', 'sensor_id': 'e145a6ea-9d1d-487a-804c-2e85bb454b9b', 'timestamp': '34b1841a-f991-4c08-ac14-9ec59b4b7f63', 'wind_speed': 6744}}
+2021-11-03 13:37:38,732 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:38,813 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:16', 'payload': {'address_id': '103201e0-d6ec-4f2f-85df-a13bea662edf', 'sensor_id': 'a8ee72ce-e8bc-48a1-8676-f0f4255e4afa', 'timestamp': '8c506c63-558e-4458-aef1-2a06602ad41c', 'wind_speed': 8866}}
+2021-11-03 13:37:39,057 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:39,140 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:16', 'payload': {'address_id': '3a69f50d-9d76-4fda-b6a5-925273f3ad80', 'sensor_id': 'ebb9b73c-4681-4823-99b2-a996fc32f2bc', 'timestamp': 'c296f507-0e3c-43f0-8f76-93ef56a9b884', 'wind_speed': 8977}}
+2021-11-03 13:37:39,384 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:39,459 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:16', 'payload': {'address_id': 'ed2033d4-de0b-469a-9039-1d9cf1813a1d', 'sensor_id': '6212e0a0-18f1-46d5-8e6b-abee80e3f1b5', 'timestamp': '714f2bff-7855-4bcb-9f5b-e88be655fdf9', 'wind_speed': 2402}}
+2021-11-03 13:37:39,708 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:39,785 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:16', 'payload': {'address_id': '6ed9029f-0cdd-4594-8b2c-adc085b3e199', 'sensor_id': '8b72748c-f098-4978-8453-0672f6d5ed69', 'timestamp': '4d7f116a-ea37-40dc-9884-9815af0361a5', 'wind_speed': 9250}}
+2021-11-03 13:37:40,033 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:40,109 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:17', 'payload': {'address_id': '4e9e88a2-6140-465d-8236-914eb20c51b9', 'sensor_id': '28fde4aa-3539-4900-9a90-361793eba6b0', 'timestamp': 'b87d9531-d44b-4fad-b235-1c5d1c156583', 'wind_speed': 1245}}
+2021-11-03 13:37:40,356 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:40,431 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:17', 'payload': {'address_id': '830c772e-04ba-400f-b4bc-a99d592750ac', 'sensor_id': '6d538372-7da6-4d94-9489-935cd40be46e', 'timestamp': '22cdbee5-bcd3-494b-ad3c-c99726c0b444', 'wind_speed': 5191}}
+2021-11-03 13:37:40,951 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:41,029 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:17', 'payload': {'address_id': '88a18885-bb64-4186-9a5b-b55af9bc9558', 'sensor_id': '9a5f9f4a-1cca-4785-9d7c-f2a4a21ca72b', 'timestamp': 'ec1c8200-8bef-4329-9e80-c52149aa8575', 'wind_speed': 3468}}
+2021-11-03 13:37:41,277 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:41,352 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:17', 'payload': {'address_id': 'eb0604da-efba-4030-b02d-d9ee99b2668b', 'sensor_id': 'f449687b-a812-4f1f-8107-166923bec000', 'timestamp': '6679bab7-8481-4dfb-a89f-cab3d6b98b0b', 'wind_speed': 4541}}
+2021-11-03 13:37:41,559 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:36Z returns 6 results
+2021-11-03 13:37:41,820 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:36Z returns 8 results
+2021-11-03 13:37:41,870 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:41,947 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:17', 'payload': {'address_id': '7242fc6e-356d-411e-9661-fd21cb4b23e6', 'sensor_id': 'f5a6e22f-9e06-4a94-86d2-c594a0bf3d16', 'timestamp': '5a0bd6bf-abe3-46ce-a20c-8899318d5ac5', 'wind_speed': 8705}}
+2021-11-03 13:37:42,193 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:42,273 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:22', 'payload': {'address_id': 'da6f9a93-e8fb-4f9c-ba3e-edac617aae88', 'outside_temperature': 6098, 'sensor_id': '506040c4-faec-43b0-9e82-0f45436cb356', 'timestamp': 'bca11108-d921-44b7-90a1-5fffb10a3173'}}
+2021-11-03 13:37:42,517 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:42,594 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:22', 'payload': {'address_id': '1ccc5959-756e-42e8-8a7b-3e22edc9a130', 'outside_temperature': 2066, 'sensor_id': 'af3dbc0d-1819-43f2-bce6-d45699d6e787', 'timestamp': '78da5aeb-74ec-450e-927d-e5ec895b83cf'}}
+2021-11-03 13:37:42,842 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:42,917 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:22', 'payload': {'address_id': '993d1424-dd08-40f3-aa2b-8abe1cab3de3', 'outside_temperature': 9727, 'sensor_id': '6a17de6c-c054-4df7-8687-03a311822521', 'timestamp': '37fec737-77ea-401d-8639-a408cca04574'}}
+2021-11-03 13:37:43,165 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:43,242 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:22', 'payload': {'address_id': 'ab5288bf-739f-49a5-a5c1-f829a3ce8ecd', 'outside_temperature': 4519, 'sensor_id': '11465c98-8a8c-4f05-a1f2-444b76c7c1ec', 'timestamp': '756338fd-fc99-492f-905a-5c53dd171287'}}
+2021-11-03 13:37:43,489 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:43,567 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:22', 'payload': {'address_id': '68e9d1ae-9ccc-48bf-8a83-6b78164af52f', 'outside_temperature': 6680, 'sensor_id': '5af4995e-8def-4777-ae8e-4e14d8d54079', 'timestamp': '9957a289-21b2-4c13-9109-21767820e547'}}
+2021-11-03 13:37:43,810 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:43,885 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:22', 'payload': {'address_id': '5d638e37-2563-457e-9b9b-39ad7f28dbef', 'outside_temperature': 3960, 'sensor_id': 'a887f267-4277-4e25-bbc7-2a8a78ed7857', 'timestamp': 'eb347662-eb37-4a19-a10b-e148a0570c13'}}
+2021-11-03 13:37:44,133 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:44,210 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:22', 'payload': {'address_id': 'e1ab03d3-09e2-443c-b6d3-6f5a354ddd66', 'outside_temperature': 2549, 'sensor_id': '48d93fa6-35a0-4c0a-8073-e4e658a19c39', 'timestamp': '6d80f22c-87e1-4363-b41f-5e9826831763'}}
+2021-11-03 13:37:44,457 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:44,536 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:22', 'payload': {'address_id': '60a207ca-9e58-484b-93b2-91686073fe81', 'outside_temperature': 8580, 'sensor_id': '38782457-4de1-4779-ac06-cb70820bfb53', 'timestamp': '00f61732-84d1-4dec-bce7-4a50ea7545b8'}}
+2021-11-03 13:37:44,788 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:44,866 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:23', 'payload': {'address_id': 'e4e16a79-bf47-4055-a6be-1659dbb78681', 'outside_temperature': 3518, 'sensor_id': '5380d38b-4a3e-41ba-a38f-68ea131b3f30', 'timestamp': '26a8b926-3f80-4754-806c-048ad75fef2a'}}
+2021-11-03 13:37:45,118 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:45,198 - basicLogger - INFO - Message: {'type': 'ot', 'datetime': '2021-11-03T13:35:23', 'payload': {'address_id': '8046093b-eb63-4cff-9411-ccbf44fa214f', 'outside_temperature': 6128, 'sensor_id': '189d7afd-2d5e-4203-950b-917cb786f0a0', 'timestamp': 'c332e004-f094-4020-a003-f0496c72bf5d'}}
+2021-11-03 13:37:45,447 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:45,529 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:27', 'payload': {'address_id': 'b44723bf-58f8-4227-aadd-7c9e4c41585f', 'sensor_id': 'a1dc8274-a898-4371-942c-9ec363a71aa4', 'timestamp': 'bcd1427c-fd31-4f41-97a1-bdb96fb7b24b', 'wind_speed': 2708}}
+2021-11-03 13:37:45,775 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:45,852 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:27', 'payload': {'address_id': 'a9a68796-041d-4671-bf43-c0d867500ea1', 'sensor_id': '0cb2ca95-a556-48c2-96ba-4c417c5e8be8', 'timestamp': '4580c71a-5425-49aa-bfd3-3345218edb4c', 'wind_speed': 6990}}
+2021-11-03 13:37:46,102 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:46,179 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:27', 'payload': {'address_id': '30bc1818-103a-41d6-920a-d91234ed0953', 'sensor_id': 'ddcdef0b-67cd-4838-9801-870315a7b325', 'timestamp': '6899cca4-56a4-499c-ac01-dd5a8cb6e9b4', 'wind_speed': 9450}}
+2021-11-03 13:37:46,429 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:46,512 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:27', 'payload': {'address_id': '76819b10-4ccd-4713-b210-5e70c4a8c1f7', 'sensor_id': 'ea466059-675d-4b09-8cbb-28b22282d3ee', 'timestamp': '65f5a18d-d507-4f25-8c00-4e017a280ee4', 'wind_speed': 2165}}
+2021-11-03 13:37:46,513 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:41Z returns 10 results
+2021-11-03 13:37:46,770 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:46,773 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:41Z returns 6 results
+2021-11-03 13:37:46,847 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:27', 'payload': {'address_id': '22e39864-cba1-41fe-834f-596bc582d59a', 'sensor_id': '3a27da5f-c63b-4ca9-b1d4-7af1120d5ba7', 'timestamp': 'f05f0349-d315-443f-b056-f9a898b001de', 'wind_speed': 8180}}
+2021-11-03 13:37:47,098 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:47,174 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:28', 'payload': {'address_id': '56e51c97-fe4f-444b-95af-683a27f08cfd', 'sensor_id': '2a1e1f9f-52db-4fa3-878f-3fb7426b592c', 'timestamp': '52fc2ddf-2d1d-4525-9bad-58978015e471', 'wind_speed': 6754}}
+2021-11-03 13:37:47,425 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:47,506 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:28', 'payload': {'address_id': 'a8088248-e937-4ed5-84e0-58d6577bef64', 'sensor_id': '67301bdb-8d65-43ec-b580-6a05f9e1b289', 'timestamp': '4c7e1397-cdac-4b94-ad53-597dd46e5356', 'wind_speed': 8925}}
+2021-11-03 13:37:47,752 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:47,830 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:28', 'payload': {'address_id': '73ab6bb3-b38b-4ce0-9212-b072998d745b', 'sensor_id': 'a11783b2-f92f-4370-ba7b-e20e756b1dea', 'timestamp': 'd8c3c5bb-b4cd-469f-baa5-bed129d35d7d', 'wind_speed': 9895}}
+2021-11-03 13:37:48,079 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:48,156 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:28', 'payload': {'address_id': 'c8be58ed-b326-415f-92c1-c5cb41d59258', 'sensor_id': 'aa9f783c-61db-4dd5-8480-6bb0e031087d', 'timestamp': '2c892f1a-1631-4148-914b-be7d14248deb', 'wind_speed': 5655}}
+2021-11-03 13:37:48,404 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:48,482 - basicLogger - INFO - Message: {'type': 'ws', 'datetime': '2021-11-03T13:35:28', 'payload': {'address_id': 'c38fa867-16d1-4021-b0e8-c70689b3d500', 'sensor_id': 'dbcbe098-8848-4ae5-bb5a-cc9d1b17cc9b', 'timestamp': 'bd6d4baa-4337-46ad-8a69-69e4ccb342b5', 'wind_speed': 7198}}
+2021-11-03 13:37:48,729 - basicLogger - INFO - Connecting to DB. Hostname: acit4850-lab6.eastus2.cloudapp.azure.com , Port: 3306
+2021-11-03 13:37:51,506 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:37:51,764 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:37:56,508 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:37:56,762 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:01,497 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:01,749 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:06,554 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:06,809 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:11,497 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:11,749 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:16,496 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:16,754 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:21,497 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:21,749 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:26,726 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:27,183 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:31,595 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:31,867 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:36,611 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:36,921 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:41,504 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:41,928 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:46,524 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:46,933 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:51,805 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:52,259 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:38:56,632 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:38:57,075 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:01,618 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:01,884 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:06,503 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:06,952 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:11,845 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:12,267 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:16,529 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:16,851 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:21,616 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:21,926 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:26,562 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:26,945 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:31,503 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:31,756 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:36,497 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:36,749 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:41,498 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:41,754 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:46,504 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:46,757 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:51,498 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:51,749 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:39:56,496 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:39:56,753 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results
+2021-11-03 13:40:01,490 - basicLogger - INFO - Query for Temperature readings after 2021-11-03T13:37:46Z returns 0 results
+2021-11-03 13:40:01,742 - basicLogger - INFO - Query for Wind speed readings after 2021-11-03T13:37:46Z returns 8 results

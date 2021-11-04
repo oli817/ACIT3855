@@ -10,23 +10,23 @@ tags:
     description: Operations available to weather sensors
 paths:   
     /readings/outside-temperature:
-      post:
-        tags:
-          - sensors
-        summary: reports outside temperature sensor reading
-        operationId: app.report_outside_temperature_reading
-        description: Adds a new outside temperature reading to the system
-        responses:
-          '201':
-            description: item created
-          '400':
-            description: 'invalid input, object invalid'
-        requestBody:
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/OutsidetemperatureReading'
-          description: Reading item to add
+#      post:
+#        tags:
+#          - sensors
+#        summary: reports outside temperature sensor reading
+#        operationId: app.report_outside_temperature_reading
+#        description: Adds a new outside temperature reading to the system
+#        responses:
+#          '201':
+#            description: item created
+#          '400':
+#            description: 'invalid input, object invalid'
+#        requestBody:
+#          content:
+#            application/json:
+#              schema:
+#                $ref: '#/components/schemas/OutsidetemperatureReading'
+#          description: Reading item to add
       get:
         tags:
           - sensors
@@ -61,23 +61,23 @@ paths:
                       type: string
             
     /readings/wind-speed:
-      post:
-        tags:
-          - sensors
-        summary: reports a wind speed reading
-        operationId: app.report_wind_speed_reading
-        description: Adds a new wind speed reading to the system
-        responses:
-          '201':
-            description: item created
-          '400':
-            description: 'invalid input, object invalid'
-        requestBody:
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/WindSpeedReading'
-          description: Reading item to add
+#      post:
+#        tags:
+#          - sensors
+#        summary: reports a wind speed reading
+#        operationId: app.report_wind_speed_reading
+#        description: Adds a new wind speed reading to the system
+#        responses:
+#          '201':
+#            description: item created
+#          '400':
+#            description: 'invalid input, object invalid'
+#        requestBody:
+#          content:
+#            application/json:
+#              schema:
+#                $ref: '#/components/schemas/WindSpeedReading'
+#          description: Reading item to add
       get:
         tags:
           - sensors
